@@ -1,6 +1,12 @@
+<!-- Banner Image -->
+![Programming Banner](https://source.unsplash.com/1600x400/?programming)
+
 # Hi, I'm Patricio Ramon
 
 Hello everyone! I am a software engineer with a passion for continuous learning and exploring new technologies. I currently work with **Node ⚡**, **Angular 🅰️**, **Flutter 🐦**, and **Python 🐍**. I'm also learning **Go 🐹**, **CI/CD 🔄**, and **DevOps 🚀**. I also enjoy working with **Linux 🐧**.
+
+<!-- A profile or coding image -->
+![Coding Image](https://source.unsplash.com/300x200/?coder)
 
 ## About Me
 
@@ -45,6 +51,7 @@ Feel free to reach out if you'd like to collaborate or simply chat about tech:
 - [LinkedIn](https://www.linkedin.com/in/patricioramón)
 
 Thank you for stopping by!
+
 
 
 <!--
