@@ -44,7 +44,7 @@ Feel free to reach out if you'd like to collaborate or simply chat about tech:
  <a href="mailto:patriciorn67@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" height="35"/>
   </a>
- <a href="https://www.linkedin.com/in/patricioramón" target="_blank">
+ <a href="www.linkedin.com/in/patricio-ramon-c" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="35"/>
   </a>
 
